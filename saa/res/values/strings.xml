@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SaaActivity!</string>
+    <string name="app_name">Saa</string>
+    <string name="saaMainString">Sää Appi</string>
+    <string name="helsinkiString">Helsinki</string>
+    <string name="tampereString">Tampere</string>
+    <string name="turkuString">Turku</string>
+    <string name="esittelyString">Valitse kaupunki painamalla nappia.</string>
+
+</resources>
